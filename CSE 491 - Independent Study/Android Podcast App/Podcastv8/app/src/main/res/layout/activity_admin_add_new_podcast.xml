@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdminAddNewPodcastActivity">
+
+
+    <TextView
+
+        android:id="@+id/slogan_add_details"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="43dp"
+        android:text="Add File and Details"
+        android:textAlignment="center"
+        android:textSize="30sp"
+
+        android:textStyle="bold"
+
+        android:textColor="@color/real_dark"
+        />
+
+
+    <ImageView
+
+        android:id="@+id/open_audio_file"
+
+        android:layout_width="wrap_content"
+        android:layout_height="220dp"
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/slogan_add_details"
+        android:cropToPadding="false"
+        android:src="@drawable/add"
+        android:layout_centerHorizontal="true"
+        android:onClick="OpenFolder"
+
+
+        />
+
+    <ProgressBar
+
+        android:id="@+id/progressBar"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_marginTop="35dp"
+        android:layout_below="@+id/open_audio_file"
+        />
+
+<!--
+    <TextView
+
+        android:id="@+id/text_view_podcast_file_name"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/progressBar"
+        android:inputType="textMultiLine"
+        android:layout_marginTop="20dp"
+        android:padding="20dp"
+        android:hint="Upload file name..."
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        android:textSize="18sp"
+        />-->
+
+
+    <EditText
+
+        android:id="@+id/podcast_name"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/progressBar"
+        android:inputType="textMultiLine"
+        android:layout_marginTop="6dp"
+        android:padding="20dp"
+        android:hint="Podcast Name..."
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+
+
+    <EditText
+
+        android:id="@+id/podcast_details"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/podcast_name"
+        android:inputType="textMultiLine"
+        android:layout_marginTop="6dp"
+        android:padding="20dp"
+        android:hint="Artist and details..."
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:background="@drawable/input_design"
+        />
+
+
+
+
+    <Button
+        android:id="@+id/add_new_podcast"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/podcast_details"
+        android:text="Add Podcast"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:padding="17dp"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:background="@drawable/buttons"
+
+
+        />
+
+
+</RelativeLayout>

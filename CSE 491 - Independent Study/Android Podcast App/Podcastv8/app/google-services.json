@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233257746203",
+    "project_id": "podcast-v8",
+    "storage_bucket": "podcast-v8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233257746203:android:394964a3c67c35b6a01dbe",
+        "android_client_info": {
+          "package_name": "com.example.podcastv8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233257746203-nuv9sp9sf2g63b7m35cvpnlj9gnjp6r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.podcastv8",
+            "certificate_hash": "038a483f81217505556d072680b5d0461b8d5348"
+          }
+        },
+        {
+          "client_id": "233257746203-2iunqgaqvm8vbo5cdhckadqsl9ijq9nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUP2ivAO0yD4ZjXZX7ioTiJ-910tXTyxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233257746203-2iunqgaqvm8vbo5cdhckadqsl9ijq9nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
