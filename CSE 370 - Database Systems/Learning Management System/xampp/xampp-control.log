@@ -1,0 +1,91 @@
+11:50:52 AM  [main] 	Initializing Control Panel
+11:50:52 AM  [main] 	Windows Version:  Home  64-bit
+11:50:52 AM  [main] 	XAMPP Version: 7.3.11
+11:50:52 AM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:50:52 AM  [main] 	You are not running with administrator rights! This will work for
+11:50:52 AM  [main] 	most application stuff but whenever you do something with services
+11:50:52 AM  [main] 	there will be a security dialogue or things will break! So think 
+11:50:52 AM  [main] 	about running this application with administrator rights!
+11:50:52 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:50:52 AM  [main] 	Checking for prerequisites
+11:50:56 AM  [main] 	All prerequisites found
+11:50:56 AM  [main] 	Initializing Modules
+11:50:56 AM  [main] 	Starting Check-Timer
+11:50:56 AM  [main] 	Control Panel Ready
+11:51:02 AM  [Apache] 	Attempting to start Apache app...
+11:51:03 AM  [Apache] 	Status change detected: running
+11:51:05 AM  [mysql] 	Attempting to start MySQL app...
+11:51:05 AM  [mysql] 	Status change detected: running
+2:16:10 PM  [main] 	Deinitializing Modules
+2:16:10 PM  [main] 	Deinitializing Control Panel
+
+4:16:19 PM  [main] 	Initializing Control Panel
+4:16:19 PM  [main] 	Windows Version:  Home  64-bit
+4:16:19 PM  [main] 	XAMPP Version: 7.3.11
+4:16:19 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+4:16:19 PM  [main] 	You are not running with administrator rights! This will work for
+4:16:19 PM  [main] 	most application stuff but whenever you do something with services
+4:16:19 PM  [main] 	there will be a security dialogue or things will break! So think 
+4:16:19 PM  [main] 	about running this application with administrator rights!
+4:16:19 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:16:19 PM  [main] 	Checking for prerequisites
+4:16:20 PM  [main] 	All prerequisites found
+4:16:21 PM  [main] 	Initializing Modules
+4:16:21 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+4:16:21 PM  [main] 	Starting Check-Timer
+4:16:21 PM  [main] 	Control Panel Ready
+4:16:25 PM  [Apache] 	Attempting to start Apache app...
+4:16:26 PM  [Apache] 	Status change detected: running
+1:00:52 AM  [main] 	Deinitializing Modules
+1:00:52 AM  [main] 	Deinitializing Control Panel
+
+8:11:16 PM  [main] 	Initializing Control Panel
+8:11:16 PM  [main] 	Windows Version:  Home  64-bit
+8:11:16 PM  [main] 	XAMPP Version: 7.3.11
+8:11:16 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+8:11:16 PM  [main] 	You are not running with administrator rights! This will work for
+8:11:16 PM  [main] 	most application stuff but whenever you do something with services
+8:11:16 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:11:16 PM  [main] 	about running this application with administrator rights!
+8:11:16 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:11:16 PM  [main] 	Checking for prerequisites
+8:11:18 PM  [main] 	All prerequisites found
+8:11:18 PM  [main] 	Initializing Modules
+8:11:18 PM  [Apache] 	XAMPP Apache is already running on port 80
+8:11:18 PM  [Apache] 	XAMPP Apache is already running on port 443
+8:11:18 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+8:11:18 PM  [main] 	Starting Check-Timer
+8:11:18 PM  [main] 	Control Panel Ready
+1:00:52 AM  [main] 	Deinitializing Modules
+1:00:52 AM  [main] 	Deinitializing Control Panel
+
+9:52:08 AM  [main] 	Initializing Control Panel
+9:52:08 AM  [main] 	Windows Version:  Home  64-bit
+9:52:08 AM  [main] 	XAMPP Version: 7.3.11
+9:52:08 AM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+9:52:08 AM  [main] 	You are not running with administrator rights! This will work for
+9:52:08 AM  [main] 	most application stuff but whenever you do something with services
+9:52:08 AM  [main] 	there will be a security dialogue or things will break! So think 
+9:52:08 AM  [main] 	about running this application with administrator rights!
+9:52:08 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+9:52:08 AM  [main] 	Checking for prerequisites
+9:52:10 AM  [main] 	All prerequisites found
+9:52:10 AM  [main] 	Initializing Modules
+9:52:10 AM  [main] 	Starting Check-Timer
+9:52:10 AM  [main] 	Control Panel Ready
+9:52:14 AM  [Apache] 	Attempting to start Apache app...
+9:52:14 AM  [Apache] 	Status change detected: running
+9:52:15 AM  [mysql] 	Attempting to start MySQL app...
+9:52:15 AM  [mysql] 	Status change detected: running
+12:10:54 PM  [Apache] 	Attempting to stop Apache (PID: 4776)
+12:10:54 PM  [Apache] 	Attempting to stop Apache (PID: 3736)
+12:10:54 PM  [Apache] 	Status change detected: stopped
+12:10:55 PM  [mysql] 	Attempting to stop MySQL app...
+12:10:55 PM  [mysql] 	Status change detected: stopped
+12:11:17 PM  [Apache] 	Attempting to start Apache app...
+12:11:17 PM  [Apache] 	Status change detected: running
+12:11:36 PM  [mysql] 	Attempting to start MySQL app...
+12:11:36 PM  [mysql] 	Status change detected: running
+5:01:44 PM  [main] 	Deinitializing Modules
+5:01:44 PM  [main] 	Deinitializing Control Panel
+
